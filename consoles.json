@@ -1,0 +1,66 @@
+[
+  {
+    "id": 232353,
+    "name": "PlayStation 5 Console",
+    "brand name": "Sony",
+    "manufacturer": "Sony",
+    "Wi-Fi Compatible": "yes",
+    "storage type": "SSD",
+    "product height": "104mm",
+    "product weight": "390mm",
+    "product length": "260mm ",
+    "price": 459.99,
+    "img": "https://media.gamestop.com/i/gamestop/11108140/Sony-PlayStation-5-Console?fmt=auto&$pdp-gallery2x$",
+    "includes": [
+      "PlayStation 5 Console",
+      "DualSense™ Wireless Controller",
+      "DualSense™ USB charging cable",
+      "Base",
+      "HDMI cable",
+      "AC power cord",
+      "Printed materials"
+    ]
+  },
+
+  {
+    "id": 345204,
+    "name": "Microsoft Xbox Series S Digital Edition Console",
+    "brand name": "Microsoft",
+    "manufacturer": "Microsoft",
+    "Wi-Fi Compatible": "yes",
+    "storage type": "SSD",
+    "product height": "270mm",
+    "product weight": "60mm",
+    "product length": "150mm",
+    "price": 249.99,
+    "img": "https://media.gamestop.com/i/gamestop/11207109/Microsoft-Xbox-Series-S-Digital-Edition-Console?fmt=auto&$pdp-gallery$",
+    "includes": [
+      "Xbox Series S console",
+      "Xbox Wireless Controller",
+      "High-speed HDMI cable"
+    ]
+  },
+
+  {
+    "id": 352673,
+    "name": "Nintendo Switch with Joy-Con Controller",
+    "brand name": "Nintendo",
+    "manufacturer": "Nintendo",
+    "Wi-Fi Compatible": "yes",
+    "storage type": "LPDDR4",
+    "product height": "101.6mm",
+    "product weight": "238.8mm",
+    "product length": "14mm",
+    "price": 299.99,
+    "img": "https://media.gamestop.com/i/gamestop/11095819/Nintendo-Switch-with-Joy-Con-Controller?fmt=auto&$pdp-gallery$",
+    "includes": [
+      "Nintendo Switch console",
+      "Nintendo Switch dock",
+      "Joy-Con (L) and Joy-Con (R)",
+      "Two Joy-Con strap accessories",
+      "One Joy-Con grip",
+      "HDMI cable",
+      "Nintendo Switch AC adapter"
+    ]
+  }
+]
