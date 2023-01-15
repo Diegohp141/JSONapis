@@ -1,5 +1,11 @@
 [
   {
-    "producs": "fakeproducts"
+    "consoles": [
+      {
+        "name": "PlayStation 5",
+        "brand name": "Sony",
+        "price": 500
+      }
+    ]
   }
 ]
